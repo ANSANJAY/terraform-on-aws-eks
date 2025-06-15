@@ -259,4 +259,3 @@ This shows intention and architecture awareness.
 
 ---
 
-Would you like this turned into a **printable cheatsheet**, **markdown for your GitHub repo**, or a **mock Q\&A format** next?
